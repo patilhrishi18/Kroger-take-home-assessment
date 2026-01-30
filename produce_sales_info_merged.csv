@@ -1,0 +1,110 @@
+Tbl No,Tbl Type,Run Lngth (ft),Base UPC,Pct Sales (%),Sales Score,UPC Desc,FT Commodity,UPC Width (in)
+1,Slanted,14,1111018195,7.2,4,KRO GRAPEFRUIT RED BAG        ,602 CITRUS                        ,13.0
+1,Slanted,14,4134,16.12,5,APPLES GALA EURO 50 CT        ,600 APPLES                        ,3.5
+1,Slanted,14,1111091188,36.29,5,LEMONS BAG FANCY RPC (KR)     ,602 CITRUS                        ,6.0
+1,Slanted,14,1111091189,28.1,5,KRO LIMES                     ,602 CITRUS                        ,13.25
+1,Slanted,14,3283,29.48,5,APPLES HONEYCRISP EURO        ,600 APPLES                        ,3.5
+1,Slanted,14,94017,0.65,2,APPLES GRANNY LG EURO ORG     ,600 APPLES                        ,3.5
+1,Slanted,14,94134,0.3,1,APPLES GALA 1/2 CTN ORG       ,600 APPLES                        ,3.5
+1,Slanted,14,94131,1.76,3,APPLES FUJI LRG EURO ORG      ,600 APPLES                        ,3.5
+1,Slanted,14,4417,0.65,2,PEARS RED                     ,601 PEARS                         ,3.0
+1,Slanted,14,4416,0.96,2,PEARS ANJOU GREEN EURO        ,601 PEARS                         ,3.0
+1,Slanted,14,4413,0.49,1,PEARS BOSC 2LYR EURO          ,601 PEARS                         ,3.0
+1,Slanted,14,1111090032,0.53,1,PRSL NAVEL HEIRLM BAG RPC     ,602 CITRUS                        ,7.0
+1,Slanted,14,1111060551,0.76,1,STO VALENCIA ORANGES          ,602 CITRUS                        ,6.0
+1,Slanted,14,1111018175,4.07,3,KRO PLUMS POUCH BAG RPC       ,605 STONE FRUIT                   ,4.0
+1,Slanted,14,1111018177,5.1,4,KRO NECTARINES PCH BG RPC     ,605 STONE FRUIT                   ,4.0
+1,Slanted,14,1111018174,8.07,4,KRO PEACHES POUCH BAG RPC     ,605 STONE FRUIT                   ,4.0
+1,Slanted,14,7224054678,6.89,4,LEMONS SEEDLESS BAG           ,602 CITRUS                        ,6.0
+1,Slanted,14,93283,2.27,3,APPLES HNYCRSP 1/2CTN ORG     ,600 APPLES                        ,3.5
+1,Slanted,14,4409,5.55,4,PEARS BARTLETT LG 2L EURO     ,601 PEARS                         ,3.0
+1,Slanted,14,4139,4.52,4,APPLES GRAN SM EURO SML       ,600 APPLES                        ,2.5
+1,Slanted,14,4015,2.68,3,APPLES RED DELICIOUS SML      ,600 APPLES                        ,3.0
+1,Slanted,14,4132,4.14,4,APPLES GALA SML               ,600 APPLES                        ,3.0
+1,Slanted,14,4016,3.64,3,APPLES RED DELICIOUS LRG      ,600 APPLES                        ,3.5
+1,Slanted,14,4131,8.1,4,APPLES FUJI EURO LARGE        ,600 APPLES                        ,3.0
+1,Slanted,14,4017,6.59,4,APPLES GRAN SMTH EURO LRG     ,600 APPLES                        ,3.5
+1,Slanted,14,4130,3.89,4,APPLES PINK LADY EURO LG      ,600 APPLES                        ,3.5
+1,Slanted,14,3507,5.66,4,APPLES COSMIC CRISP           ,600 APPLES                        ,3.0
+1,Slanted,14,3616,2.54,3,APPLES ENVY EURO              ,600 APPLES                        ,2.75
+2,Slanted,14,1111018180,9.86,5,AVOCADOS BAG                  ,606 TROPICAL FRUIT                ,4.5
+2,Slanted,14,1111091193,6.44,4,PRSL TOMATO SNK MEDLY RPC     ,617 TOMATOES                      ,5.0
+2,Slanted,14,75166677155,8.76,4,NTSW TOMATOES CHERUB CLM      ,617 TOMATOES                      ,5.0
+2,Slanted,14,1111091687,9.57,4,TOMATOES CAMPARI RPC          ,617 TOMATOES                      ,5.55
+2,Slanted,14,4664,5.52,4,TOMATOES BUNCHED              ,617 TOMATOES                      ,2.5
+2,Slanted,14,1111091688,8.76,4,KRO TOMATOES                  ,617 TOMATOES                      ,7.5
+2,Slanted,14,4800,10.37,5,TOMATOES GRAINGER COUNTY      ,617 TOMATOES                      ,5.0
+2,Slanted,14,4225,13.2,5,AVOCADOS HASS LRG TP RPC      ,606 TROPICAL FRUIT                ,2.5
+2,Slanted,14,4046,20.65,5,AVOCADOS HASS MED(70 S)       ,606 TROPICAL FRUIT                ,2.5
+2,Slanted,14,1111091686,27.78,5,TOMATOES GRAPE SWEET          ,617 TOMATOES                      ,5.0
+2,Slanted,14,4087,27.72,5,TOMATOES ROMA                 ,617 TOMATOES                      ,5.9
+2,Slanted,14,3423,0.53,2,TOMATOES HEIRLOOM VAR PK      ,617 TOMATOES                      ,3.0
+2,Slanted,14,94612,0.97,3,GINGER ORGNC                  ,614 HERBS/GARLIC                  ,2.0
+2,Slanted,14,1111002882,0.31,1,STO GARLIC HEADS WHOLE        ,614 HERBS/GARLIC                  ,4.0
+2,Slanted,14,94799,0.95,2,TOMATOES HH RED ORGNC         ,617 TOMATOES                      ,3.0
+2,Slanted,14,1111018209,0.6,2,STO AVOCADOES BAG             ,606 TROPICAL FRUIT                ,5.5
+2,Slanted,14,1111022302,0.96,1,PS TOMATOES MDLEY SNACK       ,617 TOMATOES                      ,5.0
+2,Slanted,14,1111022301,0.86,1,PS TOMATOES CHERRY SNACK      ,617 TOMATOES                      ,5.0
+2,Slanted,14,75166610305,1.47,2,NTSW TOMATOES GLORY           ,617 TOMATOES                      ,5.0
+2,Slanted,14,75166648005,0.36,1,NTSW TOMATOES TWILIGHTS       ,617 TOMATOES                      ,5.0
+2,Slanted,14,81757802123,0.96,1,80ACRES ALL ABOUT BASIL       ,614 HERBS/GARLIC,3.0
+2,Slanted,14,81757802124,1.5,2,80ACRES BASIL                 ,614 HERBS/GARLIC,3.0
+2,Slanted,14,1111091192,4.01,3,PRSL TOMATO SNK CHRRY RPC     ,617 TOMATOES                      ,5.0
+2,Slanted,14,1111091191,2.62,2,PRSL TOMATO SNK GRAPE RPC     ,617 TOMATOES                      ,5.0
+2,Slanted,14,75166677365,4.84,3,NTSW TOMATOES CHERUBS         ,617 TOMATOES                      ,5.0
+2,Slanted,14,1111000220,2.54,2,PRSL TOMATO CHRY OTV CLM      ,617 TOMATOES                      ,7.5
+2,Slanted,14,1111000876,1.72,2,STO BASIL                     ,614 HERBS/GARLIC                  ,6.0
+2,Slanted,14,1111000219,2.7,3,STO TOMATOES ROMA CLMSHL      ,617 TOMATOES                      ,7.0
+2,Slanted,14,1111091068,4.29,3,STO TOMATOES GRP RPC ORG      ,617 TOMATOES                      ,5.05
+2,Slanted,14,4799,5.55,4,TOMATOES HYDROPONIC           ,617 TOMATOES                      ,3.5
+2,Slanted,14,4801,5.65,4,TOMATILLOS                    ,617 TOMATOES                      ,1.5
+2,Slanted,14,4662,1.27,3,ONIONS SHALLOTS               ,619 ONIONS                        ,2.0
+2,Slanted,14,4608,3.66,3,SPWD GARLIC BULK              ,614 HERBS/GARLIC                  ,3.0
+2,Slanted,14,94225,2.46,3,AVOCAD HASS LG TP ORG RPC     ,606 TROPICAL FRUIT                ,3.0
+3,Slanted,14,1111069101,8.03,4,STO GALA POUCH BAG            ,600 APPLES                        ,5.0
+3,Slanted,14,1111091829,10.61,5,KRO APPLES GRNY SMT WAXF      ,600 APPLES                        ,7.0
+3,Slanted,14,1111014902,15.59,5,KRO APPLES PNK LADY POUCH     ,600 APPLES                        ,5.5
+3,Slanted,14,1111018189,13.99,5,KRO APPLES HNYCRISP POUCH     ,600 APPLES                        ,8.0
+3,Slanted,14,1111091825,19.31,5,KRO APPLES GALA WAXF          ,600 APPLES                        ,7.0
+3,Slanted,14,1111018193,1.53,2,KRO PEARS ANJOU POUCH BAG     ,601 PEARS                         ,10.0
+3,Slanted,14,1111018188,10.78,5,KRO APPLES FUJI POUCH BAG     ,600 APPLES                        ,3.0
+3,Slanted,14,1111069102,4.43,3,STO FUJI POUCH BAG            ,600 APPLES                        ,5.0
+3,Slanted,14,1111069103,4.16,3,STO GRANNY SMTH POUCH BAG     ,600 APPLES                        ,5.0
+3,Slanted,14,1111069106,2.87,3,STO HONEYCRISP POUCH BAG      ,600 APPLES                        ,5.0
+4,Slanted,14,1111091684,5.04,3,ONIONS WHITE RPC              ,619 ONIONS                        ,6.0
+4,Slanted,14,1111091664,6.92,4,KRO POTATOES RST MCRO JBO     ,618 POTATOES                      ,3.0
+4,Slanted,14,4663,10.45,5,ONIONS WHITE JUMBO            ,619 ONIONS                        ,3.0
+4,Slanted,14,1111091754,9.13,4,KRO POTATOES RUSSET           ,618 POTATOES                      ,15.5
+4,Slanted,14,1111091871,12.44,5,POTATOES YUKON GOLD RPC       ,618 POTATOES                      ,8.0
+4,Slanted,14,4082,10.49,5,ONIONS RED BULK BOX           ,619 ONIONS                        ,3.0
+4,Slanted,14,4072,13.67,5,POTATOES RUSSET RPC           ,618 POTATOES                      ,3.0
+4,Slanted,14,4166,23.1,5,SWEET ONION                   ,619 ONIONS                        ,3.0
+4,Slanted,14,1111091760,25.42,5,POTATOES RUSSET               ,618 POTATOES                      ,3.0
+4,Slanted,14,1111091682,22.62,5,ONIONS YELLOW                 ,619 ONIONS                        ,6.0
+4,Slanted,14,3221,0.78,2,POTATOES RED SZ B RPC         ,618 POTATOES                      ,2.5
+4,Slanted,14,4091,0.42,1,YAMS WHITE RPC                ,618 POTATOES                      ,7.0
+4,Slanted,14,60633224091,0.81,2,POTATOES SWT MICRWAVEABLE     ,618 POTATOES                      ,6.0
+4,Slanted,14,1111018219,0.26,1,KRO POTATOES SWEET TRAY       ,618 POTATOES                      ,10.0
+4,Slanted,14,94166,0.75,2,ONIONS SWEET ORGNC            ,619 ONIONS                        ,3.0
+4,Slanted,14,94091,0.62,2,POTATOES SWEET ORGANIC        ,618 POTATOES                      ,7.0
+4,Slanted,14,1111061317,0.01,1,PRSL POTATOES BRW BTRGAR      ,618 POTATOES                      ,3.0
+4,Slanted,14,1111008021,1.15,2,PRSL POTATOES MW HRB PRVN     ,618 POTATOES                      ,7.0
+4,Slanted,14,1111091845,8.74,4,KRO POTATOES RSST JMB BIN     ,618 POTATOES                      ,12.0
+4,Slanted,14,1111091846,7.16,4,KRO POTATOES RED              ,618 POTATOES                      ,10.0
+4,Slanted,14,1111091778,1.46,2,STO POTATOES RUSST ORGNC      ,618 POTATOES                      ,10.0
+4,Slanted,14,1111018210,1.23,2,STO POTATOES RED BAG          ,618 POTATOES                      ,9.0
+4,Slanted,14,3338391098,3.12,3,POTATOES YUKON ORGNC          ,618 POTATOES                      ,5.0
+4,Slanted,14,4816,15.08,5,YAMS RPC                      ,618 POTATOES                      ,7.0
+4,Slanted,14,4074,2.66,3,YAMS - RED GARNET             ,618 POTATOES                      ,3.0
+4,Slanted,14,4093,8.11,4,ONIONS YLLW COLOSSAL RPC      ,619 ONIONS                        ,3.0
+4,Slanted,14,94082,0.93,2,ONIONS ORGANIC RED            ,619 ONIONS                        ,3.0
+4,Slanted,14,94816,1.71,3,POTATOES SWEET GOLD ORGNC     ,618 POTATOES                      ,7.0
+5,Slanted,14,94011,16.24,5,BANANAS ORGANIC               ,620 BANANAS                       ,4.1
+5,Slanted,14,4011,81.22,5,BANANAS                       ,620 BANANAS                       ,5.0
+5,Slanted,14,3040,0.14,1,PITAHAYA DRAGON FRUIT         ,606 TROPICAL FRUIT                ,3.5
+5,Slanted,14,4395,0.32,1,BROOKS PAPAYA RED MERIDOL     ,606 TROPICAL FRUIT                ,4.5
+5,Slanted,14,4959,1.43,3,MANGOES RED LG                ,606 TROPICAL FRUIT                ,3.0
+5,Slanted,14,4312,0.18,1,MANGOES HONEY SML             ,606 TROPICAL FRUIT                ,3.0
+5,Slanted,14,4235,0.25,1,PLANTAINS CHIQUITA            ,620 BANANAS                       ,8.0
+5,Slanted,14,3127,0.06,1,POMEGRANATE                   ,606 TROPICAL FRUIT                ,4.0
+5,Slanted,14,4408,0.08,1,PEARS ASIAN                   ,601 PEARS                         ,2.5
